@@ -168,7 +168,7 @@ a:hover {
   text-decoration: underline;
 }
 
-a.two {
+a.two:link {
   color: #fff;
   text-decoration: none;
   background-color: transparent;
