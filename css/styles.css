@@ -168,13 +168,13 @@ a:hover {
   text-decoration: underline;
 }
 
-a.two {
+a.two:link {
   color: #fff;
   text-decoration: none;
   background-color: transparent;
 }
 a.two:hover {
-  color: #6c757d;
+  color: #000000;
   text-decoration: underline;
 }
 
