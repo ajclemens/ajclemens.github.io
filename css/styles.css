@@ -191,13 +191,8 @@ pre,
 code,
 kbd,
 samp {
-  /* font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-  font-size: 1em; */
-  padding: .2em .4em;
-  margin: 0;
-  font-size: 85%;
-  background-color: var(--color-markdown-code-bg);
-  border-radius: 25px;
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 1em;
 }
 
 pre {
