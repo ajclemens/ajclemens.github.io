@@ -193,6 +193,8 @@ kbd,
 samp {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   font-size: 1em;
+  background-color: #f1f1f1;
+
 }
 
 pre {
